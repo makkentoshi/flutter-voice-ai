@@ -5,10 +5,10 @@ flutter-voice-ai is a Flutter-based application that leverages artificial intell
 
 
 <h2> Key Features 🚀 </h2>
-🎤 Speech Recognition: Converts voice commands into text.
-🧠 AI Integration: Supports OpenAI to generate intelligent responses to queries.
-📱 Cross-Platform: Supports both Android and iOS.
-🌍 Multi-language support.
+🎤 Speech Recognition: Converts voice commands into text. <br>
+🧠 AI Integration: Supports OpenAI to generate intelligent responses to queries. <br>
+📱 Cross-Platform: Supports both Android and iOS. <br>
+🌍 Multi-language support. <br>
 
 <h2> 
 Screenshots 📷
